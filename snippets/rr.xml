@@ -5,8 +5,8 @@
   <project path="kernel/samsung/smdk4412" name="ChronoMonochrome/android_kernel_samsung_smdk4412" revision="lineage-16.0" clone-depth="1" />
   <project path="device/samsung/smdk4412-common" name="non1979/android_device_samsung_smdk4412-common" revision="lineage-16.0" />
   <project path="device/samsung/i9300" name="non1979/android_device_samsung_i9300" revision="lineage-16.0" />
-  <project path="vendor/samsung/smdk4412-common" name="non1979/android_vendor_samsung_smdk4412-common" revision="lineage-16.0" />
-  <project path="vendor/samsung/i9300" name="non1979/android_vendor_samsung_i9300" revision="lineage-16.0" />
+  <project path="vendor/samsung/smdk4412-common" name="CustomROMs/android_vendor_samsung_smdk4412-common" revision="lineage-16.0" />
+  <project path="vendor/samsung/i9300" name="CustomROMs/android_vendor_samsung_i9300" revision="lineage-16.0" />
   
   <project path="prebuilts/gcc/linux-x86/arm/arm-eabi-7.1" name="nathanchance/gcc-prebuilts" remote="github" revision="arm-linaro-7.x" clone-depth="1" />
     
